@@ -1,3 +1,5 @@
+''' by alec '''
+
 import numpy as np
 
 r = 4
